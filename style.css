@@ -1,0 +1,20 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+/*font-family: 'Outfit', sans-serif;
+font-family: 'Zilla Slab', serif;*/
+body{
+    background-color: #000;
+}
+p{
+    font-family: 'Zilla Slab', serif;;
+}
+li{
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+button{
+    font-family: 'Outfit', sans-serif;
+}
+h1 h2 h3{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+}
